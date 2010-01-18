@@ -43,7 +43,8 @@ echo $contents; } ?>
 
 <!-- end of project description -->
 
-<p> No content added. </p>
+<p> An example dataset for use with the <a href="http://www.biostat.jhsph.edu/~maryee/charm>charm</a>  
+package for analyzing DNA methylation microarray data from the McrBC/CHARM platform. </p>
 
 <p> The <strong>project summary page</strong> you can find <a href="http://<?php echo $domain; ?>/projects/<?php echo $group_name; ?>/"><strong>here</strong></a>. </p>
 
