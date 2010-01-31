@@ -1,11 +1,12 @@
 Package: charmData
 Type: Package
 Title: An example dataset for use with the charm package
-Version: 0.9.0
-Date: 2010-01-14
+Version: 0.9.1
+Date: 2010-01-30
 Author: Martin Aryee
 Maintainer: Martin Aryee <aryee@jhu.edu>
 Description: An example dataset for use with the charm package
 License: LGPL (>= 2)
 Depends: R(>= 2.10.0), charm, pd.feinberg.hg18.me.hx1
+ZipData: no
 LazyLoad: yes
