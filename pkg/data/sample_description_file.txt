@@ -1,9 +1,0 @@
-Filename	Individual	Tissue_Type
-136413_532.xys	1	brain
-136413_635.xys	1	brain
-136421_532.xys	2	liver
-136421_635.xys	2	liver
-136593_532.xys	3	brain
-136593_635.xys	3	brain
-186974_532.xys	4	liver
-186974_635.xys	4	liver
