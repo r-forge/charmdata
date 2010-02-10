@@ -1,0 +1,13 @@
+filename	sampleID	tissue
+136421_532.xys	441_liver	liver
+136421_635.xys	441_liver	liver
+136600_532.xys	449_spleen	spleen
+136600_635.xys	449_spleen	spleen
+3788602_532.xys	449_liver	liver
+3788602_635.xys	449_liver	liver
+3822402_532.xys	441_spleen	spleen
+3822402_635.xys	441_spleen	spleen
+5739902_532.xys	624_colon	colon
+5739902_635.xys	624_colon	colon
+5875602_532.xys	441_colon	colon
+5875602_635.xys	441_colon	colon
